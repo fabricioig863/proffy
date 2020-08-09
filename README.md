@@ -26,13 +26,13 @@ com o objetivo de homenagear os profissionais da educação. A aplicação desen
 
 ## 💻 Tecnologias
 
-HTML
-CSS
-Javascript
-Node js
-Express js
-Sqlite
-Nunjucks
+- HTML
+- CSS
+- Javascript
+- Node js
+- Express js
+- Sqlite
+- Nunjucks
 
 
 ## Como-executar?
@@ -57,6 +57,6 @@ Após os passos acessar o endereço no navegador `http://localhost:5500/`
 
 ## 📝Licença
 
-Este projeto está sob a licença MIT. Consulte a [License](https://github.com/fabricioig863/ecoleta/blob/master/License) para mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fabricioig863/proffy/blob/master/License) para mais informações.
 
 
