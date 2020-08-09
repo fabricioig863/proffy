@@ -27,7 +27,11 @@ Nunjucks
 
 ## Layout
 
+![Layout do projeto](https://github.com/fabricioig863/proffy/blob/master/layout/Proffy_Gif.gif)
 
+![Layout do projeto](https://github.com/fabricioig863/proffy/blob/master/layout/Layout-01.png)
+![Layout do projeto](https://github.com/fabricioig863/proffy/blob/master/layout/Layout-02.png)
+![Layout do projeto](https://github.com/fabricioig863/proffy/blob/master/layout/Layout-03.png)
 
 ## Como-executar ?
 
