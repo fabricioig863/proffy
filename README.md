@@ -16,9 +16,9 @@ Projeto desenvolvido na trilha discovery ministrada pelo Mayk brito da Rocktesea
 com o objetivo de homenagear os profissionais da educação. A aplicação desenvolvida uni professor e aluno, quem ama ensinar, com quem ama aprender.
 
 
-## Layout
+## 🎨 Layout
 
-![Layout do projeto](https://github.com/fabricioig863/proffy/blob/master/layout/Proffy_Gif.gif)
+![Layout do projeto](https://github.com/fabricioig863/proffy/blob/master/layout/Proffy%20_%20Gif.gif)
 
 ![Layout do projeto](https://github.com/fabricioig863/proffy/blob/master/layout/Layout-01.png)
 ![Layout do projeto](https://github.com/fabricioig863/proffy/blob/master/layout/Layout-02.png)
@@ -35,7 +35,7 @@ Sqlite
 Nunjucks
 
 
-## Como-executar ?
+## Como-executar?
 
 ```bash
 # Clonar o repositório
@@ -55,8 +55,8 @@ npm run dev
 ```
 Após os passos acessar o endereço no navegador `http://localhost:5500/`
 
-## Licença
+## 📝Licença
 
-Este projeto está sob a licença MIT. Consulte a LICENSE para mais informações.
+Este projeto está sob a licença MIT. Consulte a [License](https://github.com/fabricioig863/ecoleta/blob/master/License) para mais informações.
 
 
