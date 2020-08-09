@@ -34,7 +34,7 @@ com o objetivo de homenagear os profissionais da educação. A aplicação desen
 - Nunjucks
 
 
-## Como-executar?
+## Como executar?
 
 ```bash
 # Clonar o repositório
