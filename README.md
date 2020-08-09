@@ -6,7 +6,7 @@
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   
-  <a href="#-como-executar?">Como executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Projeto 
@@ -34,7 +34,7 @@ com o objetivo de homenagear os profissionais da educação. A aplicação desen
 - Nunjucks
 
 
-## Como executar?
+## Executar
 
 ```bash
 # Clonar o repositório
