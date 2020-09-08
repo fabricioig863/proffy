@@ -11,7 +11,7 @@
 
 ## 🚀 Projeto 
 
-Projeto desenvolvido na trilha discovery ministrada pelo Mayk brito da Rockteseat no evento Next Level Week 02 
+Projeto desenvolvido na trilha discovery ministrada pelo ![Mayk Brito](https://www.linkedin.com/in/maykbrito/) da Rockteseat no evento Next Level Week 02 
 com o objetivo de homenagear os profissionais da educação. A aplicação desenvolvida uni professor e aluno, quem ama ensinar, com quem ama aprender.
 
 
